@@ -1,2 +1,2 @@
 # temperatureChanger
-simple exercise of React
+a simple exercise of React
